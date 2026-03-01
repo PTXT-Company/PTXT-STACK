@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT-Stack-Setup.exe">
+  <a href="https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT.Stack.Setup.exe">
     <img src="https://img.shields.io/badge/Download_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Download">
   </a>
   &nbsp;
-  <a href="https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT-Stack.dmg">
+  <a href="https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT.Stack.dmg">
     <img src="https://img.shields.io/badge/Download_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Download">
   </a>
 </p>
@@ -50,12 +50,12 @@ O **PTXT Stack** é uma ferramenta desktop profissional para automatizar o uploa
 ## 📥 Instalação
 
 ### Windows
-1. Baixe o **[PTXT Stack Setup.exe](https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT-Stack-Setup.exe)**
+1. Baixe o **[PTXT Stack Setup.exe](https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT.Stack.Setup.exe)**
 2. Execute o instalador
 3. O app abre automaticamente — pronto!
 
 ### macOS
-1. Baixe o **[PTXT Stack.dmg](https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT-Stack.dmg)**
+1. Baixe o **[PTXT Stack.dmg](https://github.com/PTXT-Company/PTXT-STACK/releases/latest/download/PTXT.Stack.dmg)**
 2. Abra o `.dmg` e arraste para a pasta Aplicativos
 3. Na primeira execução: `Cmd + Clique direito > Abrir`
 
